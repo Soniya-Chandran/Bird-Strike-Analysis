@@ -11,6 +11,9 @@ Bird strikes can be considered as a severe threat to the aircraft potentially ca
 **Tools Used**
 
 *Tableau - For analysis and data Visualisation
+
+Tableau Dashboard: https://public.tableau.com/app/profile/soniya.chandran/viz/Bird_StrikeAnalysis2000-2011/BirdStrikeAnalysis2000-2011
+
 *Microsoft powerpoint- for report preparation
 
 **Case Study**
