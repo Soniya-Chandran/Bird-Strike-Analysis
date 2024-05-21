@@ -40,6 +40,7 @@ Bird strikes can be considered as a severe threat to the aircraft potentially ca
  ●Were Pilots Informed? & Prior Warning and Effect of Strike Relation
 
  **About the Data**
+ 
  The data is collection over the time period of 2000-2011
 
  There are 25558 Records and 26 features
